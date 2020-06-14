@@ -1,0 +1,2 @@
+{"id": 188923, "verifiable": "VERIFIABLE", "label": "SUPPORTS", "claim": "Ryan Gosling has been to a country in Africa.", "evidence": [[[220565, 226318, "Ryan_Gosling", 17], [220565, 226318, "Chad", 0]]], "entity": {"mention": "Africa", "start_character": 38, "end_character": 44}}
+{"id": "78526", "label": "REFUTES", "claim": "Lorelai Gilmore's father is named Robert.", "entity": {"mention": "Robert", "start_character": 34, "end_character": 40}}
